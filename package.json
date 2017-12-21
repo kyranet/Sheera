@@ -1,0 +1,15 @@
+{
+  "name": "sheera",
+  "version": "1.0.0",
+  "description": "Tiny Discord Bot for WoL and utilities",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint ./"
+  },
+  "author": "kyraNET",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "github:hydrabolt/discord.js",
+    "klasa": "github:dirigeants/klasa#TextPrompter"
+  }
+}
